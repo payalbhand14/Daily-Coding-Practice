@@ -1,3 +1,4 @@
+//factor printing
 import java.util.Scanner;
     
 public class Practice16
